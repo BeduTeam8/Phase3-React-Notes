@@ -1,0 +1,19 @@
+{
+  "name": "react_fundamentals",
+  "version": "1.0.0",
+  "description": "notes and examples from bedu phase 5 react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BeduTeam8/Phase3-React-Notes.git"
+  },
+  "author": "toonchavez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BeduTeam8/Phase3-React-Notes/issues"
+  },
+  "homepage": "https://github.com/BeduTeam8/Phase3-React-Notes#readme"
+}

@@ -1,0 +1,5 @@
+.done {
+	text-decoration: line-through;
+	/* dim, and add italics */
+	color: gray;
+}
